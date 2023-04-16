@@ -1,7 +1,5 @@
 # mi_aplicacion
 
-A new Flutter project.
+APP DE PELICULAS CON API MOVIEBD.
 
-## Getting Started
-
-https://peliculasapp-pi.vercel.app/#detalles
+https://peliculasapp-pi.vercel.app/#inicio
