@@ -1,0 +1,10 @@
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/runner/CMakeFiles/mi_aplicacion.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/runner/CMakeFiles/ALL_BUILD.dir

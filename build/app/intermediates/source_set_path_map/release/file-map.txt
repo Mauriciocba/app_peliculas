@@ -1,0 +1,15 @@
+com.example.mi_aplicacion.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Mauricio\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.mi_aplicacion.app-jetified-exoplayer-core-2.18.5-1 C:\Users\Mauricio\.gradle\caches\transforms-3\421504ee97c0561dbed69f2ee78440f9\transformed\jetified-exoplayer-core-2.18.5\res
+com.example.mi_aplicacion.app-core-1.7.0-2 C:\Users\Mauricio\.gradle\caches\transforms-3\74ce2690f7529852b8321388684fcbb6\transformed\core-1.7.0\res
+com.example.mi_aplicacion.app-lifecycle-runtime-2.3.1-3 C:\Users\Mauricio\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\res
+com.example.mi_aplicacion.app-jetified-annotation-experimental-1.1.0-4 C:\Users\Mauricio\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.mi_aplicacion.app-jetified-window-1.0.0-beta04-5 C:\Users\Mauricio\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.mi_aplicacion.app-main-6 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\android\app\src\main\res
+com.example.mi_aplicacion.app-release-7 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\android\app\src\release\res
+com.example.mi_aplicacion.app-pngs-8 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\build\app\generated\res\pngs\release
+com.example.mi_aplicacion.app-resValues-9 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\build\app\generated\res\resValues\release
+com.example.mi_aplicacion.app-rs-10 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\build\app\generated\res\rs\release
+com.example.mi_aplicacion.app-mergeReleaseResources-11 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.mi_aplicacion.app-mergeReleaseResources-12 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.mi_aplicacion.app-merged_res-13 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\build\app\intermediates\merged_res\release
+com.example.mi_aplicacion.app-packaged_res-14 C:\Users\Mauricio\Desktop\app actores\mi_aplicacion\build\video_player_android\intermediates\packaged_res\release

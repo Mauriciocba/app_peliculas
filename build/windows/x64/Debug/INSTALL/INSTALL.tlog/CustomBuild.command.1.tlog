@@ -1,0 +1,10 @@
+^C:\USERS\MAURICIO\DESKTOP\CARPETA_PROYECTOS\MI_APLICACION\BUILD\WINDOWS\CMAKEFILES\F40688997C0840011E56089631C399B1\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

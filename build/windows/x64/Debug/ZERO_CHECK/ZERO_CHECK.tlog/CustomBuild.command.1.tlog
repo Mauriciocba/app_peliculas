@@ -1,0 +1,10 @@
+^C:\USERS\MAURICIO\DESKTOP\CARPETA_PROYECTOS\MI_APLICACION\BUILD\WINDOWS\CMAKEFILES\F40688997C0840011E56089631C399B1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/windows -BC:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Mauricio/Desktop/carpeta_proyectos/mi_aplicacion/build/windows/mi_aplicacion.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
