@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
       initialRoute: 'inicio',
       routes: {
         'inicio': (_) => const InicioScreen(),
-        'detalles': (context) => const DetallesScreen()
+        'detalles': (context) => const DetallesScreen()//
       },
     );
   }
