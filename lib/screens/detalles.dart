@@ -1,10 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mi_aplicacion/models/actores_api.dart';
-import 'package:mi_aplicacion/models/respuesta_api.dart';
+import '../models/models.dart';
 import 'package:mi_aplicacion/services/servicios_peliculas.dart';
 import 'package:provider/provider.dart';
-import 'package:video_player/video_player.dart';
+
 
 class DetallesScreen extends StatelessWidget {
   const DetallesScreen({Key? key}) : super(key: key);
